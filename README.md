@@ -17,7 +17,7 @@ dependencies {
 
 # Penggunaan
 
-untuk menggunakan cukup Inisialisasi ColorPicker & Untuk Memanggil bisa Menggunakan Button
+untuk menggunakan cukup Inisialisasi DialogPicker & Untuk Memanggil bisa Menggunakan Button
 
 ```MainActivity.java
 /// Inisialisasi DialogPicker
