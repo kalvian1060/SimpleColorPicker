@@ -50,3 +50,6 @@ versi 1.0.0
 ![SS](https://raw.githubusercontent.com/JonesRandom/SimpleColorPicker/master/Screenshoot/2_re.png)</br>
 ![SS](https://raw.githubusercontent.com/JonesRandom/SimpleColorPicker/master/Screenshoot/3_re.png)
 
+# LISENSI
+
+SimpleColorPicker by [JonesRandom](https://github.com/JonesRandom) Dengan Lisensi [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
