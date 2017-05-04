@@ -1,3 +1,5 @@
+[![SimpleColorPicker](https://jitpack.io/v/JonesRandom/SimpleColorPicker.svg)](https://jitpack.io/#JonesRandom/SimpleColorPicker)
+
 # Download
 
 Agar bisa menggunakan library ini tambahankan baris kode di bawah pada build.gradle di dalam folder root project
